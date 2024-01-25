@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from mpl_toolkits.mplot3d import Axes3D
 
 # Create a grid of values
 x1 = np.linspace(-5, 5, 100)
